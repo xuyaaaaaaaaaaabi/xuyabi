@@ -1,0 +1,155 @@
+#bodyl
+{
+    background-color: rgb(82,125,53);
+}
+#div1
+{
+    margin:0 auto;
+    text-align: center;
+    width: 40%;
+    height: 50px;
+    background-color: wheat;
+    border-radius: 15px;
+    font-size: 25px;
+}
+#span1
+{
+    margin: 0 auto;
+    position: relative;
+    top:10px;
+}
+#div2
+{
+    position: relative;
+    display: inline-block;
+    left:10%;
+}
+.xiaoji
+{
+    width: 40px;
+    height: 40px;
+}
+#div3
+{
+    position: relative;
+    left:32%;
+    width:60%;
+}
+.spanin
+{
+    position: relative;
+    left:63px;
+    color: white;
+}
+.inin
+{
+    position: relative;
+    left:68px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border:0;
+    text-align: center;
+}
+.ininn
+{
+    position: relative;
+    left:5px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border:0;
+    text-align: center;
+}
+.tishi
+{
+    display:none;
+    font-size: 10px;
+    position: relative;
+    left:148px;
+    color: white;
+}
+.tishii
+{
+    display:none;
+    font-size: 10px;
+    position: relative;
+    left:148px;
+    color: white;
+}
+.anjian
+{
+    position: relative;
+    left:70px;
+    top:10px;
+    border: 0;
+    background-color: white;
+    border-radius: 20px;
+    border: 0;
+}
+#qiangdu
+{
+    position: relative;
+    font-size: small;
+    color: wheat;
+    left: 148px;
+    display: none;
+}
+#qiangdu2
+{
+    position: relative;
+    font-size: small;
+    color: red;
+    left: 155px;
+    display: none;
+}
+#buyiyang
+{
+    position: relative;
+    left:148px;
+    color: wheat;
+    font-size: small;
+    display: none;
+}
+#zhuce
+{
+    position: relative;
+    left:26%;
+    width: 10%;
+    height: 30px;
+    margin-top: 50px;
+    font-size: large;
+    text-align: center;
+    background-color: wheat;
+    border-radius: 10px;
+    border: 0;
+}
+#you
+{
+    display: none;
+    color: wheat;
+    position: relative;
+    left:148px;
+    font-size: small;
+}
+#geshi
+{
+    position: relative;
+    left:100px;
+    top:10px;
+    border: 0;
+    background-color: white;
+    border-radius: 20px;
+    border: 0;
+}
+
+#yinshen
+{
+    display: inline-block;
+    font-size: small;
+    color: white;
+    position: relative;
+    left: 120px;
+    top:10px;
+    opacity: 0;
+}

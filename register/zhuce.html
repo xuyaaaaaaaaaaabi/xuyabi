@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js.js"></script>
+</head>
+<body id="bodyl">
+    <div id="div1">
+        <span id="span1">小鸡注册系统</span>
+    </div>
+    <div id="div2">
+        <img src="img/dai (1).png">
+    </div>
+    <div id="div3">
+        <ul>
+            <img src="img/yuan.png" class="xiaoji">
+            <span class="spanin">邮箱</span>
+            <input type='text' value="请输入鸡的邮箱" class="inin" onclick="xingming()">
+            <br/><span class="tishi">要好好写小鸡的邮箱哦，🐓就素🐓</span>
+            <br/><span id="you">让你好好输入邮箱📫，你写的是个什么🐔，给我好好写！！！</span>
+        </ul>
+        <ul>
+            <img src="img/yuan.png" class="xiaoji">
+            <span class="spanin">密码</span>
+            <input type="password" value="请输入鸡的密码" class="inin" onclick="mima()">
+            <input type="button" value="显示密码" class="anjian" onclick="anjian1()">
+            <input type="button" value="显示密码格式" id="geshi" onmouseover="xianshen()" onmouseout="lishen()">
+            <div id="yinshen">
+                    <li>密码必须在9~15位之间</li>
+                    <li>密码必须有至少三个大写字母</li>
+                    <li>密码必须有?*&#中的一个</li>
+                    <li>密码等级根据数字是否在2~8，是否重复有关</li>
+            </div>    
+            <br/><span class="tishii">密码要在9~15位，不支持类似🐔酱紫的字符哦。密码写的稍微复杂一点点才会有1爱上你呢</span>
+            <br/><span id="qiangdu">密码强度:</span><span id="qiangdu2">&nbsp;</span>
+        </ul>
+        <ul>
+            <img src="img/yuan.png" class="xiaoji">
+            <span style="color: white;">再次输入密码</span>
+            <input type="password" value="请再次输入鸡的密码" class="ininn" onclick="mima2()">
+            <input type="button" value="显示密码" class="anjian" style="left:7px;" onclick="anjian2()">
+            <br/><span id="buyiyang">你两次的密码不一样厚，给我反思一下，你这个不努力的🐓</span>
+        </ul>
+    <input type="button" value="注册" id="zhuce" onclick="zhuce()">
+</body>
+</html>

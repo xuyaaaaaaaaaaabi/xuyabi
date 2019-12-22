@@ -1,0 +1,186 @@
+#div1
+{
+    height: 300px;
+    width:100%;
+    background-color: black;
+    background-image:url(img/dai.jpg);
+    border-radius: 25px;
+}
+#img1
+{
+    position: relative;
+    left:15%;
+    border-style: thick;
+    border-color: black;
+}
+#div2
+{
+    display:inline-block;
+    position: relative;
+    left:25%;
+}
+#div2span1
+{
+    font-size: 100px;
+    font-family: fantasy;
+    color: coral;
+}
+#d2
+{
+    position: relative;
+}
+#div2span2
+{
+    font-size: 20px;
+    font-family: fantasy;
+}
+#done
+{
+    background-color: coral;
+    font-size: 30px;
+    font-family: fantasy;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left:50px;
+    border: 0;
+}
+.hrs
+{
+    border-color:#ff0000;
+    display: block;
+    position: relative;
+}
+.spanh
+{
+    font-size: 80px;
+    font-family: fantasy;
+    color: rgb(254,239,52);
+    border: thin;
+}
+.bianji
+{
+    background-color: coral;
+    font-size: 30px;
+    font-family: fantasy;
+    width: 0;
+    height: 0;
+    padding: 0;
+    margin:0;
+    border-radius: 10px;
+    position: relative;
+    left:10px;
+    border: 0;
+}
+.bianjii
+{
+    background-color: coral;
+    font-size: 30px;
+    font-family: fantasy;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left:10px;
+    border: 0;
+}
+.ulcc
+{
+    position: relative;
+    left:24px;
+    margin:0;
+    padding: 0;
+}
+.ulc
+{
+    position: relative;
+    left:24px;
+    margin:0;
+    padding: 0;
+}
+.textcss
+{
+    border:0 ;
+    border-bottom: solid;
+    border-bottom-color: black;
+    position: relative;
+    width: 700px;
+    height: 30px;
+    left:30px;
+}
+.checkboxc
+{
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    position: relative;
+    left:10px;
+}
+.check
+{
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    position: relative;
+    left:10px;
+}
+.text
+{
+    border:0 ;
+    border-bottom: solid;
+    border-bottom-color: black;
+    position: relative;
+    width: 700px;
+    height: 30px;
+    left:30px;
+}
+#clear1
+{
+    background-color: coral;
+    font-size: 30px;
+    font-family: fantasy;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left:90px;
+    border: 0;
+}
+#clear2
+{
+    background-color: coral;
+    font-size: 30px;
+    font-family: fantasy;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left:50px;
+    border: 0;
+}
+#labelcc
+{
+    position: relative;
+}
+#labelc
+{
+    position: relative;
+}
+#img2
+{
+    position:relative;
+    left: 87%;
+}
+#redone
+{
+    background-color: coral;
+    font-size: 30px;
+    font-family: fantasy;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left:10px;
+    border: 0;
+}
